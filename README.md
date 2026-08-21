@@ -328,9 +328,9 @@ Every contribution represents another step in learning, building, and improving.
 
 <div align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/npullugam-arch/npullugam-arch/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/npullugam-arch/npullugam-arch/output/github-contribution-grid-snake.svg">
-<img width="95%" alt="Nanda Kishore GitHub Contribution Snake" src="https://raw.githubusercontent.com/npullugam-arch/npullugam-arch/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg">
+<img width="95%" alt="Nanda Kishore GitHub Contribution Snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg">
 </picture>
 </div>
 
