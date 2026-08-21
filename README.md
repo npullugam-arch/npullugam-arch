@@ -41,10 +41,10 @@ Explore my projects, skills, tools, internships, experience, and development jou
 ## Programming Languages
 
 - Java
+- Python
+- C++
 - JavaScript
-- SQL
-- HTML5
-- CSS3
+
 
 ## Frontend Development
 
@@ -84,6 +84,7 @@ Explore my projects, skills, tools, internships, experience, and development jou
 - AI Chatbots
 - AI Agents
 - Prompt Engineering
+- AI Voice Agent 
 - n8n Workflow Automation
 
 ---
