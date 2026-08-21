@@ -308,54 +308,7 @@
 <hr>
 
 
-<!-- ==================== GITHUB STATS ==================== -->
 
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<br>
-
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=npullugam-arch&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-
-  <img
-    width="49%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=npullugam-arch&theme=tokyonight&hide_border=true"
-  />
-</p>
-
-<br>
-
-<p align="center">
-  <img
-    width="45%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=npullugam-arch&layout=compact&theme=tokyonight&hide_border=true"
-  />
-</p>
-
-<br>
-
-<hr>
-
-
-<!-- ==================== CONTRIBUTION GRAPH ==================== -->
-
-<h2 align="center">📈 Contribution Activity</h2>
-
-<br>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=npullugam-arch&theme=tokyo-night&hide_border=true&area=true"
-    width="95%"
-  />
-</p>
-
-<br>
-
-<hr>
 
 
 <!-- ==================== CONTRIBUTION SNAKE ==================== -->
