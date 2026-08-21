@@ -1,4 +1,4 @@
-<!--
+[<!--
 Nanda Kishore - GitHub Profile README
 -->
 
@@ -269,3 +269,4 @@ Full Stack Developer | Java & Spring Boot | React | AI Integration
 🌐 <b>https://nandakishore.info/</b>
 
 </div>
+](https://www.srikanthreddy.dev/assets/a.webp)
