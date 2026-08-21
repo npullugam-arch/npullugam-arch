@@ -1,106 +1,98 @@
 # 👋 Hi, I'm Nanda Kishore
 
-### Full Stack Developer | Java & Spring Boot Developer | AI Integration Enthusiast
+### Full Stack Developer • Java & Spring Boot Developer • AI Integration Enthusiast
 
-I'm a **Full Stack Developer** passionate about building modern, scalable, interactive, and AI-powered web applications.
+I’m a **Full Stack Developer** focused on building scalable, responsive, and intelligent web applications.
 
-I primarily work with **Java, Spring Boot, React, PostgreSQL, Supabase, JPA, and Hibernate**, with a strong interest in **AI integrations, real-time applications, automation, and cloud deployment**.
+My core expertise lies in **Java, Spring Boot, React, PostgreSQL, Supabase, JPA, and Hibernate**, with growing experience in **AI integration, real-time systems, workflow automation, and cloud deployment**.
+
+I enjoy building complete applications — from modern frontend experiences and backend APIs to database architecture, AI-powered features, and production deployment.
 
 ---
 
 ## 🌐 Portfolio
 
-Want to see my projects and work?
+Explore my projects, technical skills, internships, experience, live applications, and development work.
 
-### 🚀 [Explore My Portfolio](http://nandakishore.info/)
+### 🔗 Portfolio Website
 
-My portfolio includes my **projects, internships, skills, tools, experience, live demos, and project details**.
+**https://nandakishore.info/**
+
+👉 [Visit My Portfolio](https://nandakishore.info/)
 
 ---
 
-## 💻 Tech Stack
+## 💻 Technical Expertise
 
-### 👨‍💻 Programming Languages
+### Programming Languages
 
-`Java` `Python` `C++` `JavaScript`
+`Java` • `Python` • `C++` • `JavaScript`
 
-### 🎨 Frontend
+### Frontend Development
 
-`React` `JavaScript` `HTML5` `CSS3` `Bootstrap`
+`React` • `JavaScript` • `HTML5` • `CSS3` • `Bootstrap` • `Responsive Design`
 
-### ⚙️ Backend
+### Backend Development
 
-`Spring Boot` `Spring Data JPA` `Hibernate` `REST APIs` `Maven` `WebSocket`
+`Spring Boot` • `Spring Data JPA` • `Hibernate` • `REST APIs` • `Maven` • `WebSocket`
 
-### 🗄️ Database
+### Databases
 
-`PostgreSQL` `Supabase` `MySQL` `H2`
+`PostgreSQL` • `Supabase` • `MySQL` • `H2`
 
-### 🤖 AI & Automation
+### AI & Automation
 
-`AI Integration` `AI Chatbots` `AI Agents` `AI Voice Agents` `OpenRouter` `NVIDIA Nemotron` `Ollama` `n8n` `Prompt Engineering`
+`AI Integration` • `AI Chatbots` • `AI Agents` • `AI Voice Agents` • `OpenRouter` • `NVIDIA Nemotron` • `Ollama` • `n8n` • `Prompt Engineering`
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 
-`Docker` `Render` `Vercel` `Railway`
+`Docker` • `Render` • `Vercel` • `Railway`
 
 ---
 
 ## 🛠️ Tools & Platforms
 
-`Git` `GitHub` `VS Code` `IntelliJ IDEA` `Postman` `Supabase` `Cloudinary` `Docker` `n8n` `Codex` `OpenRouter` `Twilio` `ngrok`
+`Git` • `GitHub` • `VS Code` • `IntelliJ IDEA` • `Postman` • `Supabase` • `Cloudinary` • `Docker` • `n8n` • `Codex` • `OpenRouter` • `Twilio` • `ngrok`
 
 ---
 
-## 🚀 What I Build
+## 🚀 What I Work On
 
-- 🌐 Full Stack Web Applications
-- ☕ Java & Spring Boot Applications
-- ⚛️ React Applications
-- 🤖 AI-Powered Applications
-- 💬 AI Chatbots & AI Agents
-- 🎙️ AI Voice Agents
-- ⚡ Real-Time Applications
-- 🔄 Workflow Automation
-- 🔌 REST API Integrations
-- 🗄️ Database-Driven Applications
-
----
-
-## 🤖 AI & Modern Development
-
-I'm actively exploring the combination of **Full Stack Development and Artificial Intelligence**.
-
-I work with AI APIs and models to integrate intelligent capabilities into real-world applications, including:
-
-- AI Chatbots
-- AI Agents
+- Full Stack Web Applications
+- Java & Spring Boot Backend Systems
+- React-Based Web Applications
+- RESTful API Development
+- Database-Driven Applications
+- AI-Powered Web Applications
+- AI Chatbots & Intelligent Assistants
 - AI Voice Agents
-- Database-aware AI assistants
-- OpenRouter API integrations
-- NVIDIA Nemotron models
-- Ollama
-- n8n automation
-- Prompt Engineering
-
----
-
-## 🎯 Currently Focused On
-
-- Advanced Spring Boot
-- React
-- Artificial Intelligence
-- AI Agents
-- Generative AI
-- WebSockets
-- Real-Time Systems
+- Real-Time Applications using WebSockets
 - Workflow Automation
+- Third-Party API Integrations
 - Cloud Deployment
-- Data Structures & Algorithms
 
 ---
 
-## ⚡ My Core Stack
+## 🤖 AI & Intelligent Applications
+
+Alongside full-stack development, I’m exploring how **Artificial Intelligence can be integrated into real-world software applications**.
+
+My work includes:
+
+- AI-powered chatbots
+- AI agents
+- AI voice agents
+- Database-aware AI assistants
+- OpenRouter API integration
+- NVIDIA Nemotron models
+- Ollama-based AI systems
+- Prompt engineering
+- n8n workflow automation
+- AI integration with Spring Boot applications
+
+---
+
+## ⚡ Core Development Stack
 
 ```text
 React
@@ -115,4 +107,6 @@ Hibernate
    ↓
 PostgreSQL / Supabase
    ↓
-Docker & Cloud Deployment
+Docker
+   ↓
+Cloud Deployment
