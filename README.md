@@ -18,7 +18,7 @@ Explore my projects, technical skills, internships, experience, live application
 
 **https://nandakishore.info/**
 
-👉 [Visit My Portfolio](https://nandakishore.info/)
+
 
 ---
 
