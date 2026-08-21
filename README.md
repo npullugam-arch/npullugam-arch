@@ -14,7 +14,7 @@ I also explore **AI integrations, automation, real-time systems, WebSockets, clo
 
 ## 🌐 My Portfolio
 
-🔗 **Portfolio:** YOUR_PORTFOLIO_URL
+🔗 **Portfolio:** http://nandakishore.info/
 
 Explore my projects, skills, tools, internships, experience, and development journey through my interactive portfolio.
 
