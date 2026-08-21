@@ -361,7 +361,7 @@ I'd be happy to connect and talk about it.
 <p align="center">
 <a href="https://github.com/npullugam-arch"><img src="https://img.shields.io/badge/GitHub-npullugam--arch-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-LET'S_CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-CONTACT_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="mailto:npulugam@gmail.com"><img src="https://img.shields.io/badge/Gmail-CONTACT_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://nandakishore.info/"><img src="https://img.shields.io/badge/Portfolio-EXPLORE_MY_WORK-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
