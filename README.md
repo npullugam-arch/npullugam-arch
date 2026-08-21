@@ -241,78 +241,45 @@ Tools that power my development, testing, automation, collaboration, and deploym
 
 <hr>
 
+<h2 align="center">🌌 My Developer Constellation</h2>
 
-<!-- =========================================================
-                         WHAT I BUILD
-========================================================= -->
+<div align="center">
 
-<h2 align="center">🚀 What I Build</h2>
+<p>
+☕ <b>Spring Boot</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+🤖 <b>AI</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+⚛️ <b>React</b>
+</p>
 
-<p align="center">
-<b>Turning concepts into complete, scalable, intelligent, and production-ready digital products.</b>
+<p>
+↘ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+↓
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ↙
+</p>
+
+<h2>✦ BUILD • CONNECT • CREATE ✦</h2>
+
+<p>
+↗ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+↑
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ↖
+</p>
+
+<p>
+🗄️ <b>PostgreSQL</b>
+&nbsp;&nbsp;&nbsp;&nbsp;
+⚡ <b>Real-Time</b>
+&nbsp;&nbsp;&nbsp;&nbsp;
+☁️ <b>Cloud</b>
 </p>
 
 <br>
 
-<table align="center">
-<tr>
-<td align="center" width="300">
-<h3>🌐 Full Stack Apps</h3>
-Java • Spring Boot • React<br>
-PostgreSQL • Supabase<br><br>
-Modern end-to-end web applications.
-</td>
-<td align="center" width="300">
-<h3>🤖 AI Solutions</h3>
-AI Chatbots • AI Agents<br>
-Voice AI • LLM APIs<br><br>
-Intelligent applications and assistants.
-</td>
-</tr>
-<tr>
-<td align="center" width="300">
-<h3>⚡ Real-Time Systems</h3>
-WebSockets • Live Data<br>
-Notifications • Dashboards<br><br>
-Fast and interactive experiences.
-</td>
-<td align="center" width="300">
-<h3>🔗 Backend & APIs</h3>
-REST APIs • Databases<br>
-Authentication • Integrations<br><br>
-Scalable backend architectures.
-</td>
-</tr>
-<tr>
-<td align="center" width="300">
-<h3>☁️ Cloud Applications</h3>
-Docker • Render • Vercel<br>
-Railway • Cloud Services<br><br>
-Applications ready for production.
-</td>
-<td align="center" width="300">
-<h3>🔄 Automation Systems</h3>
-n8n • AI Workflows<br>
-APIs • Intelligent Automation<br><br>
-Automating repetitive processes.
-</td>
-</tr>
-</table>
+<b>💡 IDEA &nbsp; ⟶ &nbsp; ⚙️ ENGINEER &nbsp; ⟶ &nbsp; 🚀 REALITY</b>
 
-<br>
-
-<p align="center">
-<b>Frontend → Backend → Database → AI → Cloud → Deployment</b>
-</p>
-
-<p align="center">
-<i>I enjoy owning the complete journey from an idea to a working product.</i>
-</p>
-
-<br>
-
-<hr>
-
+</div>
 
 <!-- =========================================================
                      CONTRIBUTION SNAKE
